@@ -1,8 +1,8 @@
-# Iti-Js-Ecommerce
+# JavaScript E-commerce
 
 ## Project Description
 
-Iti-Js-Ecommerce is a JavaScript-based e-commerce project. It provides functionalities to browse categories, view products, manage a shopping cart, and handle user authentication. The project is implemented using HTML, CSS, and JavaScript, with a focus on dynamic content loading and user interactions.
+JavaScript-based e-commerce website. offers a full suite of functionalities for browsing categories, viewing products, managing a shopping cart, and handling user authentication. The website is implemented using HTML, CSS, and JavaScript, with a focus on dynamic content loading and user interactions.
 
 
 ## Features
